@@ -1,4 +1,4 @@
-# LAUNCH SETTINGS BY TUNE
+# LAUNCH SETTINGS
 
 -novid -high -language english -freq 75 -tickrate 128 -nod3d9ex -nojoy +cl_updaterate 128 +cl_cmdrate 128 -console -noaafonts -heapsize 1572864 -threads 4 -w 1024 -h 768 +cl_forcepreload 1 -processheap -dev +rate 786432 +cpu_frequency_monitoring 1
 
