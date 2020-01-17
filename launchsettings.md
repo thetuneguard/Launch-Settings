@@ -1,6 +1,6 @@
 # LAUNCH SETTINGS
 
--novid -high -language english -freq 120 -tickrate 128 -d3d9ex -nojoy +cl_updaterate 128 +cl_cmdrate 128 -console -noaafonts -heapsize 1572864 -threads 4 -w 1024 -h 768 +cl_forcepreload 1 -processheap -dev +rate 786432 +cpu_frequency_monitoring 1
+-novid -high -language english -freq 144 -tickrate 128 -d3d9ex -nojoy +cl_updaterate 128 +cl_cmdrate 128 -console -noaafonts -heapsize 1572864 -threads 4 -w 1024 -h 768 +cl_forcepreload 1 -processheap -dev +rate 786432 +cpu_frequency_monitoring 1
 
 <i><b>INFORMATION FOR NEWBIES</b></i>
 
@@ -10,7 +10,7 @@
  high for exe
 # -language english
  language blyat
-# -freq 120
+# -freq 144
  frequency for ur LCD or LED
 # -tickrate 128
  tick for u
